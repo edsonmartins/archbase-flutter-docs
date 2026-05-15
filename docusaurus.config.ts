@@ -13,7 +13,7 @@ const config: Config = {
   },
 
   url: 'https://edsonmartins.github.io',
-  baseUrl: '/archbase-flutter/',
+  baseUrl: '/archbase-flutter-docs/',
 
   organizationName: 'edsonmartins',
   projectName: 'archbase-flutter',
@@ -44,7 +44,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/edsonmartins/archbase-flutter/tree/main/docs/',
+            'https://github.com/edsonmartins/archbase-flutter-docs/tree/main/',
         },
         // Blog desabilitado por enquanto — pode ser reativado depois.
         blog: false,

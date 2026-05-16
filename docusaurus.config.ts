@@ -12,12 +12,11 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://edsonmartins.github.io',
-  baseUrl: '/archbase-flutter-docs/',
+  url: 'https://flutter.archbase.dev',
+  baseUrl: '/',
 
   organizationName: 'edsonmartins',
-  projectName: 'archbase-flutter',
-  deploymentBranch: 'gh-pages',
+  projectName: 'archbase-flutter-docs',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',

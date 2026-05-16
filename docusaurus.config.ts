@@ -65,7 +65,7 @@ const config: Config = {
       title: 'Archbase Flutter',
       logo: {
         alt: 'Archbase Flutter',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
